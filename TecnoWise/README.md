@@ -1,47 +1,51 @@
+# Teste Dev Mobile TecnoWise
+
+Sitema para gestão de Posts
+
+## 🚀 Começando
+
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+https://reactnative.dev/docs/environment-setup
+
+### 🔧 Instalação
+
+Build IOS: yarn ios
+
+Build Android: yarn Android:
+
+Para executar o projeto em dispositivos físicos é necessário seguir estas recomendações: 
+https://reactnative.dev/docs/running-on-device
 
 
-### For Build Project 
+## Testar APP 
+Usuário: teste, 
+Senha: 123
 
-# OR using Yarn
-yarn android
-```
+## Principais Telas
 
-# OR using Yarn
-yarn ios
-```
+![Simulator Screenshot - iPhone 15 - 2024-07-05 at 19 07 01](https://github.com/ygorgabrielverissimo/tecnowiseTest/assets/61061863/9fac4ba4-b758-453c-9742-da5a4ae46c8a)
+![Simulator Screenshot - iPhone 15 - 2024-07-05 at 19 06 34](https://github.com/ygorgabrielverissimo/tecnowiseTest/assets/61061863/faa35f9c-d81c-49b8-a7cd-f165a008138f)
+![Simulator Screenshot - iPhone 15 - 2024-07-05 at 19 06 54](https://github.com/ygorgabrielverissimo/tecnowiseTest/assets/61061863/55ce388f-8f44-42a1-93fb-10e56041144d)
+![Simulator Screenshot - iPhone 15 - 2024-07-05 at 19 06 46](https://github.com/ygorgabrielverissimo/tecnowiseTest/assets/61061863/fe78ae12-30de-4aca-8045-fa088913d6dc)
+![Simulator Screenshot - iPhone 15 - 2024-07-05 at 19 06 42](https://github.com/ygorgabrielverissimo/tecnowiseTest/assets/61061863/f46f2129-4d8e-4408-86f3-5075db85fe46)
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+## Vídeo de apresentação
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+https://www.loom.com/share/07ec6fab7208458cb7dab8e74832f218
 
-## Step 3: Modifying your App
+## 📌 Versão
 
-Now that you have successfully run the app, let's modify it.
+Versão 0.74 React-Native
+Node 18.6.1
 
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+## ✒️ Autores
 
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
+Ygor Gabriel Verissimo  
+13 99618-2070
+ygor_verissimo@hotmail.com
 
-## Congratulations! :tada:
+## 📄 Licença
 
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+Este projeto está sob a licença guatúita 
